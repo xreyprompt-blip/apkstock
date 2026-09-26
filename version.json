@@ -1,5 +1,5 @@
 {
-  "version": "260926-183719",
+  "version": "260926-201145",
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• Pencarian barang di Stock Gudang<br/>• Format satuan turunan diperjelas (1 Ikat = 5 Bungkus)<br/>• Tampilan satuan 2 baris di tabel stok<br/>• Indikator (+) untuk barang terima dari outlet lain<br/>• Perbaikan alur konfirmasi restock<br/>• Sinkronisasi versi aplikasi"
+  "changelog": "• Pencatatan log error otomatis jika aplikasi tertutup tiba-tiba<br/>• Format satuan turunan diberi tanda kurung (...)<br/>• Pencarian barang di Stock Gudang<br/>• Tampilan satuan 2 baris di tabel stok<br/>• Indikator (+) untuk barang terima dari outlet lain<br/>• Perbaikan alur konfirmasi restock<br/>• Sinkronisasi versi aplikasi"
 }
