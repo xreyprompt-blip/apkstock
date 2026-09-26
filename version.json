@@ -1,5 +1,5 @@
 {
-  "version": "260926-165745",
+  "version": "260926-175718",
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "Pembaruan rutin dan perbaikan bug."
+  "changelog": "• Tampilan satuan 2 baris di tabel stok<br/>• Indikator (+) untuk barang terima dari outlet lain<br/>• Perbaikan alur konfirmasi restock<br/>• Sinkronisasi versi aplikasi"
 }
