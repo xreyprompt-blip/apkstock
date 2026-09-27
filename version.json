@@ -1,5 +1,5 @@
 {
-  "version": "260927-193931",
+  "version": "260927-223352",
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Kolom Total pengiriman ke warung selalu tampil & label Qty dinamis<br/>• <b>[Baru]</b> Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data<br/>• Dukungan satuan keterangan bebas (seperti Karung) pada input sisa stok<br/>• Input target produksi dapat dilakukan hingga H+1<br/>• Penyelarasan validasi target produksi dan perapian urutan outlet<br/>• Pencatatan log error otomatis jika aplikasi tertutup tiba-tiba<br/>• Format satuan turunan diberi tanda kurung<br/>• Pencarian barang di Stock Gudang<br/>• Tampilan satuan 2 baris di tabel stok<br/>• Indikator (+) untuk barang terima dari outlet lain"
+  "changelog": "• <b>[Baru]</b> Laporan pergerakan pemakaian dan stok barang per outlet untuk Admin<br/>• <b>[Baru]</b> Rincian penerimaan tambahan stok di outlet dapat dilihat langsung<br/>• <b>[Baru]</b> Pilihan satuan pada pengisian tambahan stok lebih fleksibel<br/>• Kolom Total pengiriman ke warung selalu tampil & label Qty dinamis<br/>• Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data<br/>• Dukungan satuan keterangan bebas (seperti Karung) pada input sisa stok<br/>• Input target produksi dapat dilakukan hingga H+1<br/>• Penyelarasan validasi target produksi dan perapian urutan outlet<br/>• Pencatatan log error otomatis jika aplikasi tertutup tiba-tiba<br/>• Format satuan turunan diberi tanda kurung"
 }
