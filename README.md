@@ -3,7 +3,8 @@
 Public release distribution repository for **nzNoraji** APK and version tracking.
 
 ## Files
-- `version.json`: Public metadata read by the nzNoraji app to detect newer versions.
+- `version.json`: Public metadata read by the nzNoraji app to detect newer versions. Holds the filtered short changelog (points from the last 48 hours; newest release points carry `<b>[Baru]</b>`) plus machine fields (`versionCode`, `commit`, `publishedAt`, `sha256`, `size`).
+- `CHANGELOG.md`: Full cumulative changelog history, newest release section first. The publish script prepends each release here, then filters the 48h window into `version.json`.
 - `com.noraji.nznoraji-Signed.apk`: The latest published APK (excluded from Git tree via `.gitignore` to prevent repository bloat, hosted on GitHub Releases).
 
 ## Direct Download URL
