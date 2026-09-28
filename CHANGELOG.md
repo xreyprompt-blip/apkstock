@@ -1,3 +1,10 @@
+## v260929-012948 — 29 Sep 2026 01:29
+
+- Nilai yang sudah direvisi dari input pertama ditandai merah beserta nilai awalnya
+- Info sisa bahan baku tampil sebagai banner biru untuk divisi produksi tanpa membuka baris bahan mentah
+- Angka pada halaman Tambahan bisa diketuk untuk melihat rincian semua satuan
+- Petugas produksi bisa mengisi target produksi untuk besok
+
 ## v260928-221158 — 28 Sep 2026 22:11
 
 - Istilah Outlet/Warung menjadi Lapak dan Pusat/Kantor menjadi Gudang di seluruh tampilan
@@ -22,4 +29,5 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 

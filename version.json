@@ -1,10 +1,10 @@
 {
-  "version": "260928-221158",
-  "versionCode": 54943918,
+  "version": "260929-012948",
+  "versionCode": 54955788,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Istilah Outlet/Warung menjadi Lapak dan Pusat/Kantor menjadi Gudang di seluruh tampilan<br/>• <b>[Baru]</b> Laporan pemakaian barang bisa pilih Lapak, Gudang, atau Produksi<br/>• <b>[Baru]</b> Tampilan multi-satuan dipisah garis miring agar mudah dibaca<br/>• <b>[Baru]</b> Sisa lapak di produksi ikut tampilan Kemarin atau Hari Ini<br/>• <b>[Baru]</b> Admin otomatis buka data kemarin saat cek stok<br/>• <b>[Baru]</b> Total grup barang di semua halaman stok<br/>• <b>[Baru]</b> Label baru Total setelah produksi dan Stock sebelum diambil bakaran<br/>• Tampilan multi-satuan lebih rapi dengan warna lembut dan otomatis sembunyikan satuan kosong<br/>• Komunikasi catatan dan peringatan dua arah langsung antara pusat dan outlet<br/>• Penyesuaian pembagian stok ke warung untuk mode satu pengiriman",
-  "commit": "f6b37c3",
-  "publishedAt": "2026-09-28T22:14:11+07:00",
-  "sha256": "49cded877349996d7e66d6d269379ab9357d12bfba35e42695f837e12530f59d",
-  "size": 40989435
+  "changelog": "• <b>[Baru]</b> Nilai yang sudah direvisi dari input pertama ditandai merah beserta nilai awalnya<br/>• <b>[Baru]</b> Info sisa bahan baku tampil sebagai banner biru untuk divisi produksi tanpa membuka baris bahan mentah<br/>• <b>[Baru]</b> Angka pada halaman Tambahan bisa diketuk untuk melihat rincian semua satuan<br/>• <b>[Baru]</b> Petugas produksi bisa mengisi target produksi untuk besok<br/>• Istilah Outlet/Warung menjadi Lapak dan Pusat/Kantor menjadi Gudang di seluruh tampilan<br/>• Laporan pemakaian barang bisa pilih Lapak, Gudang, atau Produksi<br/>• Tampilan multi-satuan dipisah garis miring agar mudah dibaca<br/>• Sisa lapak di produksi ikut tampilan Kemarin atau Hari Ini<br/>• Admin otomatis buka data kemarin saat cek stok<br/>• Total grup barang di semua halaman stok",
+  "commit": "9868407",
+  "publishedAt": "2026-09-29T01:30:08+07:00",
+  "sha256": "5afaef010c6b0415ae8af07bc643247fe99583dd44e2edf69ed08dc07cd65530",
+  "size": 41430488
 }
