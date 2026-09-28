@@ -1,5 +1,10 @@
 {
-  "version": "260928-175220",
+  "version": "260928-221158",
+  "versionCode": 54943918,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Tampilan multi-satuan lebih rapi dengan warna lembut dan otomatis sembunyikan satuan kosong<br/>• <b>[Baru]</b> Komunikasi catatan dan peringatan dua arah langsung antara pusat dan outlet<br/>• <b>[Baru]</b> Penyesuaian pembagian stok ke warung untuk mode satu pengiriman<br/>• Laporan pergerakan pemakaian dan stok barang per outlet untuk Admin<br/>• Rincian penerimaan tambahan stok di outlet dapat dilihat langsung<br/>• Pilihan satuan pada pengisian tambahan stok lebih fleksibel<br/>• Kolom Total pengiriman ke warung selalu tampil & label Qty dinamis<br/>• Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data<br/>• Dukungan satuan keterangan bebas (seperti Karung) pada input sisa stok<br/>• Input target produksi dapat dilakukan hingga H+1"
+  "changelog": "• <b>[Baru]</b> Istilah Outlet/Warung menjadi Lapak dan Pusat/Kantor menjadi Gudang di seluruh tampilan<br/>• <b>[Baru]</b> Laporan pemakaian barang bisa pilih Lapak, Gudang, atau Produksi<br/>• <b>[Baru]</b> Tampilan multi-satuan dipisah garis miring agar mudah dibaca<br/>• <b>[Baru]</b> Sisa lapak di produksi ikut tampilan Kemarin atau Hari Ini<br/>• <b>[Baru]</b> Admin otomatis buka data kemarin saat cek stok<br/>• <b>[Baru]</b> Total grup barang di semua halaman stok<br/>• <b>[Baru]</b> Label baru Total setelah produksi dan Stock sebelum diambil bakaran<br/>• Tampilan multi-satuan lebih rapi dengan warna lembut dan otomatis sembunyikan satuan kosong<br/>• Komunikasi catatan dan peringatan dua arah langsung antara pusat dan outlet<br/>• Penyesuaian pembagian stok ke warung untuk mode satu pengiriman",
+  "commit": "f6b37c3",
+  "publishedAt": "2026-09-28T22:14:11+07:00",
+  "sha256": "49cded877349996d7e66d6d269379ab9357d12bfba35e42695f837e12530f59d",
+  "size": 40989435
 }
