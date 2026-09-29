@@ -1,5 +1,6 @@
-## v260929-223141 — 29 Sep 2026 22:31
+## v260929-225402 — 29 Sep 2026 22:54
 
+- Judul halaman dan kolom Cari seragam di semua halaman
 - Perbaikan banner kuning Terpakai yang muncul bergantian antara admin dan divisi di halaman Produksi dan Stock Gudang
 - Kolom Cari di halaman Stock Lapak, Tambahan, dan Produksi
 - Kolom angka di dialog Tambahan bisa isi desimal
@@ -44,6 +45,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 

@@ -1,10 +1,10 @@
 {
-  "version": "260929-223141",
-  "versionCode": 55031501,
+  "version": "260929-225402",
+  "versionCode": 55032842,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Perbaikan banner kuning Terpakai yang muncul bergantian antara admin dan divisi di halaman Produksi dan Stock Gudang<br/>• <b>[Baru]</b> Kolom Cari di halaman Stock Lapak, Tambahan, dan Produksi<br/>• <b>[Baru]</b> Kolom angka di dialog Tambahan bisa isi desimal<br/>• <b>[Baru]</b> Info biru saat Sisa Kemarin diambil dari hari sebelum kemarin<br/>• <b>[Baru]</b> Tanggal admin kembali ke hari ini di semua halaman<br/>• <b>[Baru]</b> Pilihan outlet 0 kembali bernama Pusat di pengaturan awal dan pengaturan<br/>• Ada peran baru Yang isi kemasan di bawah Yang membagikan ke lapak<br/>• Yang melihat laporan produksi kini hanya baca, tidak bisa isi kemasan<br/>• Yang melihat laporan produksi kini bisa melihat stock lapak dan kiriman di halaman Tambahan<br/>• Nilai yang sudah direvisi dari input pertama ditandai merah beserta nilai awalnya",
-  "commit": "eedd9f4",
-  "publishedAt": "2026-09-29T22:32:14+07:00",
-  "sha256": "a0f86a4cb76c24ffd1cccae756eaf4f32dbe2722bdedcc74f8d4ccf651f64327",
-  "size": 41430488
+  "changelog": "• <b>[Baru]</b> Judul halaman dan kolom Cari seragam di semua halaman<br/>• <b>[Baru]</b> Perbaikan banner kuning Terpakai yang muncul bergantian antara admin dan divisi di halaman Produksi dan Stock Gudang<br/>• <b>[Baru]</b> Kolom Cari di halaman Stock Lapak, Tambahan, dan Produksi<br/>• <b>[Baru]</b> Kolom angka di dialog Tambahan bisa isi desimal<br/>• <b>[Baru]</b> Info biru saat Sisa Kemarin diambil dari hari sebelum kemarin<br/>• <b>[Baru]</b> Tanggal admin kembali ke hari ini di semua halaman<br/>• <b>[Baru]</b> Pilihan outlet 0 kembali bernama Pusat di pengaturan awal dan pengaturan<br/>• Ada peran baru Yang isi kemasan di bawah Yang membagikan ke lapak<br/>• Yang melihat laporan produksi kini hanya baca, tidak bisa isi kemasan<br/>• Yang melihat laporan produksi kini bisa melihat stock lapak dan kiriman di halaman Tambahan",
+  "commit": "ddab874",
+  "publishedAt": "2026-09-29T22:54:33+07:00",
+  "sha256": "03d3c8ca42f0495a35a4ac4761f43127461b633ca2671d86a54e6aae698d1d4a",
+  "size": 40997627
 }
