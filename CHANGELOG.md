@@ -1,3 +1,9 @@
+## v260929-163429 — 29 Sep 2026 16:34
+
+- Ada peran baru Yang isi kemasan di bawah Yang membagikan ke lapak
+- Yang melihat laporan produksi kini hanya baca, tidak bisa isi kemasan
+- Yang melihat laporan produksi kini bisa melihat stock lapak dan kiriman di halaman Tambahan
+
 ## v260929-012948 — 29 Sep 2026 01:29
 
 - Nilai yang sudah direvisi dari input pertama ditandai merah beserta nilai awalnya
@@ -29,5 +35,6 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 

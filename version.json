@@ -1,10 +1,10 @@
 {
-  "version": "260929-012948",
-  "versionCode": 54955788,
+  "version": "260929-163429",
+  "versionCode": 55010069,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Nilai yang sudah direvisi dari input pertama ditandai merah beserta nilai awalnya<br/>• <b>[Baru]</b> Info sisa bahan baku tampil sebagai banner biru untuk divisi produksi tanpa membuka baris bahan mentah<br/>• <b>[Baru]</b> Angka pada halaman Tambahan bisa diketuk untuk melihat rincian semua satuan<br/>• <b>[Baru]</b> Petugas produksi bisa mengisi target produksi untuk besok<br/>• Istilah Outlet/Warung menjadi Lapak dan Pusat/Kantor menjadi Gudang di seluruh tampilan<br/>• Laporan pemakaian barang bisa pilih Lapak, Gudang, atau Produksi<br/>• Tampilan multi-satuan dipisah garis miring agar mudah dibaca<br/>• Sisa lapak di produksi ikut tampilan Kemarin atau Hari Ini<br/>• Admin otomatis buka data kemarin saat cek stok<br/>• Total grup barang di semua halaman stok",
-  "commit": "9868407",
-  "publishedAt": "2026-09-29T01:30:08+07:00",
-  "sha256": "5afaef010c6b0415ae8af07bc643247fe99583dd44e2edf69ed08dc07cd65530",
-  "size": 41430488
+  "changelog": "• <b>[Baru]</b> Ada peran baru Yang isi kemasan di bawah Yang membagikan ke lapak<br/>• <b>[Baru]</b> Yang melihat laporan produksi kini hanya baca, tidak bisa isi kemasan<br/>• <b>[Baru]</b> Yang melihat laporan produksi kini bisa melihat stock lapak dan kiriman di halaman Tambahan<br/>• Nilai yang sudah direvisi dari input pertama ditandai merah beserta nilai awalnya<br/>• Info sisa bahan baku tampil sebagai banner biru untuk divisi produksi tanpa membuka baris bahan mentah<br/>• Angka pada halaman Tambahan bisa diketuk untuk melihat rincian semua satuan<br/>• Petugas produksi bisa mengisi target produksi untuk besok<br/>• Istilah Outlet/Warung menjadi Lapak dan Pusat/Kantor menjadi Gudang di seluruh tampilan<br/>• Laporan pemakaian barang bisa pilih Lapak, Gudang, atau Produksi<br/>• Tampilan multi-satuan dipisah garis miring agar mudah dibaca",
+  "commit": "9c6b095",
+  "publishedAt": "2026-09-29T16:35:22+07:00",
+  "sha256": "7702b6cccabc48ed42b8033a6b6822b2f67c54044eb1591594f7ce35f6661fe2",
+  "size": 40997627
 }
