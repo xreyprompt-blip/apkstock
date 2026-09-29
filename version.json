@@ -1,10 +1,10 @@
 {
-  "version": "260929-163429",
-  "versionCode": 55010069,
+  "version": "260929-223141",
+  "versionCode": 55031501,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Ada peran baru Yang isi kemasan di bawah Yang membagikan ke lapak<br/>• <b>[Baru]</b> Yang melihat laporan produksi kini hanya baca, tidak bisa isi kemasan<br/>• <b>[Baru]</b> Yang melihat laporan produksi kini bisa melihat stock lapak dan kiriman di halaman Tambahan<br/>• Nilai yang sudah direvisi dari input pertama ditandai merah beserta nilai awalnya<br/>• Info sisa bahan baku tampil sebagai banner biru untuk divisi produksi tanpa membuka baris bahan mentah<br/>• Angka pada halaman Tambahan bisa diketuk untuk melihat rincian semua satuan<br/>• Petugas produksi bisa mengisi target produksi untuk besok<br/>• Istilah Outlet/Warung menjadi Lapak dan Pusat/Kantor menjadi Gudang di seluruh tampilan<br/>• Laporan pemakaian barang bisa pilih Lapak, Gudang, atau Produksi<br/>• Tampilan multi-satuan dipisah garis miring agar mudah dibaca",
-  "commit": "9c6b095",
-  "publishedAt": "2026-09-29T16:35:22+07:00",
-  "sha256": "7702b6cccabc48ed42b8033a6b6822b2f67c54044eb1591594f7ce35f6661fe2",
-  "size": 40997627
+  "changelog": "• <b>[Baru]</b> Perbaikan banner kuning Terpakai yang muncul bergantian antara admin dan divisi di halaman Produksi dan Stock Gudang<br/>• <b>[Baru]</b> Kolom Cari di halaman Stock Lapak, Tambahan, dan Produksi<br/>• <b>[Baru]</b> Kolom angka di dialog Tambahan bisa isi desimal<br/>• <b>[Baru]</b> Info biru saat Sisa Kemarin diambil dari hari sebelum kemarin<br/>• <b>[Baru]</b> Tanggal admin kembali ke hari ini di semua halaman<br/>• <b>[Baru]</b> Pilihan outlet 0 kembali bernama Pusat di pengaturan awal dan pengaturan<br/>• Ada peran baru Yang isi kemasan di bawah Yang membagikan ke lapak<br/>• Yang melihat laporan produksi kini hanya baca, tidak bisa isi kemasan<br/>• Yang melihat laporan produksi kini bisa melihat stock lapak dan kiriman di halaman Tambahan<br/>• Nilai yang sudah direvisi dari input pertama ditandai merah beserta nilai awalnya",
+  "commit": "eedd9f4",
+  "publishedAt": "2026-09-29T22:32:14+07:00",
+  "sha256": "a0f86a4cb76c24ffd1cccae756eaf4f32dbe2722bdedcc74f8d4ccf651f64327",
+  "size": 41430488
 }

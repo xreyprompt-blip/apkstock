@@ -1,3 +1,12 @@
+## v260929-223141 — 29 Sep 2026 22:31
+
+- Perbaikan banner kuning Terpakai yang muncul bergantian antara admin dan divisi di halaman Produksi dan Stock Gudang
+- Kolom Cari di halaman Stock Lapak, Tambahan, dan Produksi
+- Kolom angka di dialog Tambahan bisa isi desimal
+- Info biru saat Sisa Kemarin diambil dari hari sebelum kemarin
+- Tanggal admin kembali ke hari ini di semua halaman
+- Pilihan outlet 0 kembali bernama Pusat di pengaturan awal dan pengaturan
+
 ## v260929-163429 — 29 Sep 2026 16:34
 
 - Ada peran baru Yang isi kemasan di bawah Yang membagikan ke lapak
@@ -35,6 +44,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
