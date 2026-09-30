@@ -1,3 +1,33 @@
+## v260930-182309 — 30 Sep 2026 18:23
+
+- Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak
+- Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris
+- Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi
+- Peringatan saat simpan Stock Lapak wajib pilih, tidak bisa lewati
+- Selisih kini adil, barang rusak yang tercatat tidak terbaca sebagai minus
+- Ada peran baru Yang ACC pengiriman ke lapak, terpisah dari Yang melihat stock gudang
+- Pilihan satuan di laporan Pemakaian Barang
+
+## v260930-182250 — 30 Sep 2026 18:22
+
+- Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak
+- Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris
+- Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi
+- Peringatan saat simpan Stock Lapak wajib pilih, tidak bisa lewati
+- Selisih kini adil, barang rusak yang tercatat tidak terbaca sebagai minus
+- Ada peran baru Yang ACC pengiriman ke lapak, terpisah dari Yang melihat stock gudang
+- Pilihan satuan di laporan Pemakaian Barang
+
+## v260930-182130 — 30 Sep 2026 18:21
+
+- Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak
+- Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris
+- Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi
+- Peringatan saat simpan Stock Lapak wajib pilih, tidak bisa lewati
+- Selisih kini adil, barang rusak yang tercatat tidak terbaca sebagai minus
+- Ada peran baru Yang ACC pengiriman ke lapak, terpisah dari Yang melihat stock gudang
+- Pilihan satuan di laporan Pemakaian Barang
+
 ## v260929-225402 — 29 Sep 2026 22:54
 
 - Judul halaman dan kolom Cari seragam di semua halaman
@@ -45,6 +75,9 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
+
+
 
 
 

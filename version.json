@@ -1,10 +1,10 @@
 {
-  "version": "260929-225402",
-  "versionCode": 55032842,
+  "version": "260930-182309",
+  "versionCode": 55102989,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Judul halaman dan kolom Cari seragam di semua halaman<br/>• <b>[Baru]</b> Perbaikan banner kuning Terpakai yang muncul bergantian antara admin dan divisi di halaman Produksi dan Stock Gudang<br/>• <b>[Baru]</b> Kolom Cari di halaman Stock Lapak, Tambahan, dan Produksi<br/>• <b>[Baru]</b> Kolom angka di dialog Tambahan bisa isi desimal<br/>• <b>[Baru]</b> Info biru saat Sisa Kemarin diambil dari hari sebelum kemarin<br/>• <b>[Baru]</b> Tanggal admin kembali ke hari ini di semua halaman<br/>• <b>[Baru]</b> Pilihan outlet 0 kembali bernama Pusat di pengaturan awal dan pengaturan<br/>• Ada peran baru Yang isi kemasan di bawah Yang membagikan ke lapak<br/>• Yang melihat laporan produksi kini hanya baca, tidak bisa isi kemasan<br/>• Yang melihat laporan produksi kini bisa melihat stock lapak dan kiriman di halaman Tambahan",
-  "commit": "ddab874",
-  "publishedAt": "2026-09-29T22:54:33+07:00",
-  "sha256": "03d3c8ca42f0495a35a4ac4761f43127461b633ca2671d86a54e6aae698d1d4a",
-  "size": 40997627
+  "changelog": "• <b>[Baru]</b> Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak<br/>• <b>[Baru]</b> Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris<br/>• <b>[Baru]</b> Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi<br/>• <b>[Baru]</b> Peringatan saat simpan Stock Lapak wajib pilih, tidak bisa lewati<br/>• <b>[Baru]</b> Selisih kini adil, barang rusak yang tercatat tidak terbaca sebagai minus<br/>• <b>[Baru]</b> Ada peran baru Yang ACC pengiriman ke lapak, terpisah dari Yang melihat stock gudang<br/>• <b>[Baru]</b> Pilihan satuan di laporan Pemakaian Barang<br/>• Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak<br/>• Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris<br/>• Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi",
+  "commit": "f475ab2",
+  "publishedAt": "2026-09-30T18:24:03+07:00",
+  "sha256": "03753d15760f9a895f254b1cf823256dd6b62e92c983c356934f2a27e361af89",
+  "size": 41438680
 }
