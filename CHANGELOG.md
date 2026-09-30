@@ -1,46 +1,10 @@
-## v260930-191224 — 30 Sep 2026 19:12
+## v260930-192517 — 30 Sep 2026 19:25
 
-- Ikon launcher lebih tebal dan jelas.
-
-## v260930-190708 — 30 Sep 2026 19:07
-
-- Ikon launcher lebih tebal dan jelas.
-
-## v260930-190113 — 30 Sep 2026 19:01
-
-- Perbaiki tampilan ikon launcher agar tidak terpotong.
-- Keamanan: biometrik hanya aktif setelah login password pertama kali.
-
-## v260930-184727 — 30 Sep 2026 18:47
-
-- Perbaiki tampilan ikon launcher agar tidak terpotong.
-
-## v260930-184059 — 30 Sep 2026 18:40
-
-- Ikon aplikasi baru yang lebih keren dan profesional.
+- Desain ikon launcher baru (kubus stok & grafik emas) lebih jelas dan proporsional.
+- Keamanan: verifikasi biometrik hanya aktif setelah login password pertama kali.
 - Perbaikan tampilan tooltip dan ikon dialog.
 
 ## v260930-182309 — 30 Sep 2026 18:23
-
-- Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak
-- Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris
-- Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi
-- Peringatan saat simpan Stock Lapak wajib pilih, tidak bisa lewati
-- Selisih kini adil, barang rusak yang tercatat tidak terbaca sebagai minus
-- Ada peran baru Yang ACC pengiriman ke lapak, terpisah dari Yang melihat stock gudang
-- Pilihan satuan di laporan Pemakaian Barang
-
-## v260930-182250 — 30 Sep 2026 18:22
-
-- Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak
-- Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris
-- Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi
-- Peringatan saat simpan Stock Lapak wajib pilih, tidak bisa lewati
-- Selisih kini adil, barang rusak yang tercatat tidak terbaca sebagai minus
-- Ada peran baru Yang ACC pengiriman ke lapak, terpisah dari Yang melihat stock gudang
-- Pilihan satuan di laporan Pemakaian Barang
-
-## v260930-182130 — 30 Sep 2026 18:21
 
 - Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak
 - Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris
@@ -97,6 +61,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
