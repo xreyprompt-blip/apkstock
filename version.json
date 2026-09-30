@@ -1,10 +1,10 @@
 {
-  "version": "260930-190708",
-  "versionCode": 55105628,
+  "version": "260930-191224",
+  "versionCode": 55105944,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Ikon launcher lebih tebal dan jelas.<br/>• Perbaiki tampilan ikon launcher agar tidak terpotong.<br/>• Keamanan: biometrik hanya aktif setelah login password pertama kali.<br/>• Perbaiki tampilan ikon launcher agar tidak terpotong.<br/>• Ikon aplikasi baru yang lebih keren dan profesional.<br/>• Perbaikan tampilan tooltip dan ikon dialog.<br/>• Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak<br/>• Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris<br/>• Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi<br/>• Peringatan saat simpan Stock Lapak wajib pilih, tidak bisa lewati",
+  "changelog": "• <b>[Baru]</b> Ikon launcher lebih tebal dan jelas.<br/>• Ikon launcher lebih tebal dan jelas.<br/>• Perbaiki tampilan ikon launcher agar tidak terpotong.<br/>• Keamanan: biometrik hanya aktif setelah login password pertama kali.<br/>• Perbaiki tampilan ikon launcher agar tidak terpotong.<br/>• Ikon aplikasi baru yang lebih keren dan profesional.<br/>• Perbaikan tampilan tooltip dan ikon dialog.<br/>• Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak<br/>• Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris<br/>• Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi",
   "commit": "4d00bd2",
-  "publishedAt": "2026-09-30T19:07:38+07:00",
-  "sha256": "76a6c7c9add9fd6e18b151237508463fa71562309e2a2e6d6bdfdc2c83329bd4",
-  "size": 41491928
+  "publishedAt": "2026-09-30T19:14:55+07:00",
+  "sha256": "4eae61c5741ee03dd009a6672f3f97c0427ba15335f7af896ad96e229b4bc02f",
+  "size": 41446872
 }
