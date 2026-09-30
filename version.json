@@ -1,10 +1,10 @@
 {
-  "version": "260930-184059",
-  "versionCode": 55104059,
+  "version": "260930-184727",
+  "versionCode": 55104447,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Ikon aplikasi baru yang lebih keren dan profesional.<br/>• <b>[Baru]</b> Perbaikan tampilan tooltip dan ikon dialog.<br/>• Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak<br/>• Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris<br/>• Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi<br/>• Peringatan saat simpan Stock Lapak wajib pilih, tidak bisa lewati<br/>• Selisih kini adil, barang rusak yang tercatat tidak terbaca sebagai minus<br/>• Ada peran baru Yang ACC pengiriman ke lapak, terpisah dari Yang melihat stock gudang<br/>• Pilihan satuan di laporan Pemakaian Barang<br/>• Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak",
-  "commit": "1093464",
-  "publishedAt": "2026-09-30T18:41:32+07:00",
-  "sha256": "ac120fb2b1a7f0c67338e99f88eac3981bca264de40e4019fc6403d126924ed8",
-  "size": 41054971
+  "changelog": "• <b>[Baru]</b> Perbaiki tampilan ikon launcher agar tidak terpotong.<br/>• Ikon aplikasi baru yang lebih keren dan profesional.<br/>• Perbaikan tampilan tooltip dan ikon dialog.<br/>• Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak<br/>• Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris<br/>• Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi<br/>• Peringatan saat simpan Stock Lapak wajib pilih, tidak bisa lewati<br/>• Selisih kini adil, barang rusak yang tercatat tidak terbaca sebagai minus<br/>• Ada peran baru Yang ACC pengiriman ke lapak, terpisah dari Yang melihat stock gudang<br/>• Pilihan satuan di laporan Pemakaian Barang",
+  "commit": "5ed3e4b",
+  "publishedAt": "2026-09-30T18:47:57+07:00",
+  "sha256": "56d1ae8e6069da339da846c0d8579bd62fac9a9e81dd6e949f2d4aa52148bba8",
+  "size": 41487832
 }
