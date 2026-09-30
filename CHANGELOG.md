@@ -1,3 +1,7 @@
+## v260930-190708 — 30 Sep 2026 19:07
+
+- Ikon launcher lebih tebal dan jelas.
+
 ## v260930-190113 — 30 Sep 2026 19:01
 
 - Perbaiki tampilan ikon launcher agar tidak terpotong.
@@ -89,6 +93,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
