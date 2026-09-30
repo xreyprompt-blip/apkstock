@@ -1,3 +1,8 @@
+## v260930-215708 — 30 Sep 2026 21:57
+
+- Kotak isi Tambahan dan Masuk kini bisa pindah satuan dengan mengetuk angka satuan lain di kolom tersebut.
+- Kolom Awal, Tambahan, Terpakai, dan Sisa kemarin langsung tampil di tabel Bagikan ke Lapak.
+
 ## v260930-192517 — 30 Sep 2026 19:25
 
 - Desain ikon launcher baru (kubus stok & grafik emas) lebih jelas dan proporsional.
@@ -61,6 +66,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 

@@ -1,10 +1,10 @@
 {
-  "version": "260930-192517",
-  "versionCode": 55106717,
+  "version": "260930-215708",
+  "versionCode": 55115828,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Desain ikon launcher baru (kubus stok &amp; grafik emas) lebih jelas dan proporsional.<br/>• <b>[Baru]</b> Keamanan: verifikasi biometrik hanya aktif setelah login password pertama kali.<br/>• <b>[Baru]</b> Perbaikan tampilan tooltip dan ikon dialog.<br/>• Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak<br/>• Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris<br/>• Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi<br/>• Peringatan saat simpan Stock Lapak wajib pilih, tidak bisa lewati<br/>• Selisih kini adil, barang rusak yang tercatat tidak terbaca sebagai minus<br/>• Ada peran baru Yang ACC pengiriman ke lapak, terpisah dari Yang melihat stock gudang<br/>• Pilihan satuan di laporan Pemakaian Barang",
-  "commit": "6419314",
-  "publishedAt": "2026-09-30T19:27:59+07:00",
-  "sha256": "3d26f09261d710e994cc490bb215fdce8be7e6bb4948059f2a4bb128650cb800",
-  "size": 41368500
+  "changelog": "• <b>[Baru]</b> Kotak isi Tambahan dan Masuk kini bisa pindah satuan dengan mengetuk angka satuan lain di kolom tersebut.<br/>• <b>[Baru]</b> Kolom Awal, Tambahan, Terpakai, dan Sisa kemarin langsung tampil di tabel Bagikan ke Lapak.<br/>• Desain ikon launcher baru (kubus stok &amp; grafik emas) lebih jelas dan proporsional.<br/>• Keamanan: verifikasi biometrik hanya aktif setelah login password pertama kali.<br/>• Perbaikan tampilan tooltip dan ikon dialog.<br/>• Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak<br/>• Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris<br/>• Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi<br/>• Peringatan saat simpan Stock Lapak wajib pilih, tidak bisa lewati<br/>• Selisih kini adil, barang rusak yang tercatat tidak terbaca sebagai minus",
+  "commit": "c17dc58",
+  "publishedAt": "2026-09-30T21:57:45+07:00",
+  "sha256": "a12981017a1e9f3790104dad33b3423543f91bc7c99864a48880ff8fac9c9709",
+  "size": 40939735
 }
