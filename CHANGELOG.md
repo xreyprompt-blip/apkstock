@@ -1,3 +1,8 @@
+## v260930-184059 — 30 Sep 2026 18:40
+
+- Ikon aplikasi baru yang lebih keren dan profesional.
+- Perbaikan tampilan tooltip dan ikon dialog.
+
 ## v260930-182309 — 30 Sep 2026 18:23
 
 - Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak
@@ -75,6 +80,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 

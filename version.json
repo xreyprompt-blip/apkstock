@@ -1,10 +1,10 @@
 {
-  "version": "260930-182309",
-  "versionCode": 55102989,
+  "version": "260930-184059",
+  "versionCode": 55104059,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak<br/>• <b>[Baru]</b> Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris<br/>• <b>[Baru]</b> Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi<br/>• <b>[Baru]</b> Peringatan saat simpan Stock Lapak wajib pilih, tidak bisa lewati<br/>• <b>[Baru]</b> Selisih kini adil, barang rusak yang tercatat tidak terbaca sebagai minus<br/>• <b>[Baru]</b> Ada peran baru Yang ACC pengiriman ke lapak, terpisah dari Yang melihat stock gudang<br/>• <b>[Baru]</b> Pilihan satuan di laporan Pemakaian Barang<br/>• Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak<br/>• Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris<br/>• Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi",
-  "commit": "f475ab2",
-  "publishedAt": "2026-09-30T18:24:03+07:00",
-  "sha256": "03753d15760f9a895f254b1cf823256dd6b62e92c983c356934f2a27e361af89",
-  "size": 41438680
+  "changelog": "• <b>[Baru]</b> Ikon aplikasi baru yang lebih keren dan profesional.<br/>• <b>[Baru]</b> Perbaikan tampilan tooltip dan ikon dialog.<br/>• Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak<br/>• Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris<br/>• Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi<br/>• Peringatan saat simpan Stock Lapak wajib pilih, tidak bisa lewati<br/>• Selisih kini adil, barang rusak yang tercatat tidak terbaca sebagai minus<br/>• Ada peran baru Yang ACC pengiriman ke lapak, terpisah dari Yang melihat stock gudang<br/>• Pilihan satuan di laporan Pemakaian Barang<br/>• Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak",
+  "commit": "1093464",
+  "publishedAt": "2026-09-30T18:41:32+07:00",
+  "sha256": "ac120fb2b1a7f0c67338e99f88eac3981bca264de40e4019fc6403d126924ed8",
+  "size": 41054971
 }
