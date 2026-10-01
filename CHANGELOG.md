@@ -1,3 +1,11 @@
+## v261002-044955 — 02 Oct 2026 04:49
+
+- Tombol −/+ di kotak Tambahan Gudang dan Produksi untuk naik-turunkan angka dengan mudah
+- Total grup barang tampil per satuan di Stock Lapak, Gudang, dan Produksi
+- Orderan lapak yang belum diterima muncul sebagai peringatan di Beranda
+- Divisi ACC kini bisa pilih lapak di halaman Tambahan
+- Angka desimal selalu pakai koma di semua HP
+
 ## v260930-215708 — 30 Sep 2026 21:57
 
 - Kotak isi Tambahan dan Masuk kini bisa pindah satuan dengan mengetuk angka satuan lain di kolom tersebut.
@@ -66,6 +74,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 

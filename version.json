@@ -1,10 +1,10 @@
 {
-  "version": "260930-215708",
-  "versionCode": 55115828,
+  "version": "261002-044955",
+  "versionCode": 55226995,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Kotak isi Tambahan dan Masuk kini bisa pindah satuan dengan mengetuk angka satuan lain di kolom tersebut.<br/>• <b>[Baru]</b> Kolom Awal, Tambahan, Terpakai, dan Sisa kemarin langsung tampil di tabel Bagikan ke Lapak.<br/>• Desain ikon launcher baru (kubus stok &amp; grafik emas) lebih jelas dan proporsional.<br/>• Keamanan: verifikasi biometrik hanya aktif setelah login password pertama kali.<br/>• Perbaikan tampilan tooltip dan ikon dialog.<br/>• Ketuk nama lapak untuk lihat Awal, Tambahan, Terpakai, dan Sisa kemarin di Bagikan ke Lapak<br/>• Edit Tambahan Tanpa Order kini pakai tombol pensil, tidak perlu ketuk baris<br/>• Satuan keterangan kini bisa isi Masuk di Gudang dan Produksi<br/>• Peringatan saat simpan Stock Lapak wajib pilih, tidak bisa lewati<br/>• Selisih kini adil, barang rusak yang tercatat tidak terbaca sebagai minus",
-  "commit": "c17dc58",
-  "publishedAt": "2026-09-30T21:57:45+07:00",
-  "sha256": "a12981017a1e9f3790104dad33b3423543f91bc7c99864a48880ff8fac9c9709",
-  "size": 40939735
+  "changelog": "• <b>[Baru]</b> Tombol −/+ di kotak Tambahan Gudang dan Produksi untuk naik-turunkan angka dengan mudah<br/>• <b>[Baru]</b> Total grup barang tampil per satuan di Stock Lapak, Gudang, dan Produksi<br/>• <b>[Baru]</b> Orderan lapak yang belum diterima muncul sebagai peringatan di Beranda<br/>• <b>[Baru]</b> Divisi ACC kini bisa pilih lapak di halaman Tambahan<br/>• <b>[Baru]</b> Angka desimal selalu pakai koma di semua HP<br/>• Kotak isi Tambahan dan Masuk kini bisa pindah satuan dengan mengetuk angka satuan lain di kolom tersebut.<br/>• Kolom Awal, Tambahan, Terpakai, dan Sisa kemarin langsung tampil di tabel Bagikan ke Lapak.<br/>• Desain ikon launcher baru (kubus stok &amp; grafik emas) lebih jelas dan proporsional.<br/>• Keamanan: verifikasi biometrik hanya aktif setelah login password pertama kali.<br/>• Perbaikan tampilan tooltip dan ikon dialog.",
+  "commit": "ee9954e",
+  "publishedAt": "2026-10-02T04:50:38+07:00",
+  "sha256": "c421777ce905a8a7436e5b672d55a0c2a56854a8cadc1d242c75a38f26a88292",
+  "size": 41380788
 }
