@@ -1,3 +1,14 @@
+## v261002-190806 — 02 Oct 2026 19:08
+
+- Tombol −/+ di Tambahan Gudang dan Produksi untuk satuan dasar yang punya kemasan besar
+- Total grup barang per satuan di Stock Lapak, Gudang, dan Produksi
+- Peringatan orderan belum diterima di Beranda tampil merah muda
+- Pesanan Kemarin hanya tampilkan kiriman pertama, kiriman lanjutan pindah ke bawah, plus kolom Waktu
+- Pilihan Sumber di dialog Tambahan urut Beli Produksi Gudang Lapak dan ikut default tiap ganti barang
+- Admin bisa edit semua baris Tambahan termasuk kiriman Produksi
+- Divisi ACC bisa pilih lapak di Tambahan
+- Angka desimal selalu pakai koma di semua HP
+
 ## v261002-044955 — 02 Oct 2026 04:49
 
 - Tombol −/+ di kotak Tambahan Gudang dan Produksi untuk naik-turunkan angka dengan mudah
@@ -74,6 +85,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
