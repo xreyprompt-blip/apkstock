@@ -1,3 +1,7 @@
+## v261004-023248 — 04 Oct 2026 02:32
+
+- Kolom Diterima di Pesanan Kemarin hanya hitung kiriman pertama
+
 ## v261004-022834 — 04 Oct 2026 02:28
 
 - Pembaruan rutin dan perbaikan bug.
@@ -120,6 +124,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
