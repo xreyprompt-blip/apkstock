@@ -1,3 +1,8 @@
+## v261004-030228 — 04 Oct 2026 03:02
+
+- Pengaturan baru sisa minus khusus admin
+- Peringatan digabung per barang di Beranda
+
 ## v261004-023248 — 04 Oct 2026 02:32
 
 - Kolom Diterima di Pesanan Kemarin hanya hitung kiriman pertama
@@ -124,6 +129,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
