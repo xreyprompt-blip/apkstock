@@ -1,10 +1,10 @@
 {
-  "version": "261004-022345",
-  "versionCode": 55391025,
+  "version": "261004-022834",
+  "versionCode": 55391314,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Pilihan Barang bisa diketik-cari di Tambahan dan Laporan<br/>• <b>[Baru]</b> Sisa Kemarin selalu ikut data terbaru saat Simpan<br/>• <b>[Baru]</b> Peringatan merah jika ada hari yang belum disimpan<br/>• <b>[Baru]</b> Perbaikan kotak cari yang terisi _search<br/>• Perbaikan aplikasi tertutup sendiri di HP tertentu<br/>• Perbaikan aplikasi tidak bisa dibuka<br/>• Perbaikan kiriman kedua yang tidak muncul di Tambahan<br/>• Perbaikan aplikasi tertutup sendiri di halaman Masuk pada HP tertentu<br/>• Peringatan merah Mode Super Admin di Beranda<br/>• Tombol −/+ di Tambahan Gudang dilepas agar tidak salah pencet",
-  "commit": "56fb4d9",
-  "publishedAt": "2026-10-04T02:24:15+07:00",
-  "sha256": "e338c4786929e1f0c1195f73fbed414701daeef29a109777a74bc0ba1939f77b",
-  "size": 40947927
+  "changelog": "• <b>[Baru]</b> Pembaruan rutin dan perbaikan bug.<br/>• Pilihan Barang bisa diketik-cari di Tambahan dan Laporan<br/>• Sisa Kemarin selalu ikut data terbaru saat Simpan<br/>• Peringatan merah jika ada hari yang belum disimpan<br/>• Perbaikan kotak cari yang terisi _search<br/>• Perbaikan aplikasi tertutup sendiri di HP tertentu<br/>• Perbaikan aplikasi tidak bisa dibuka<br/>• Perbaikan kiriman kedua yang tidak muncul di Tambahan<br/>• Perbaikan aplikasi tertutup sendiri di halaman Masuk pada HP tertentu<br/>• Peringatan merah Mode Super Admin di Beranda",
+  "commit": "61290e6",
+  "publishedAt": "2026-10-04T02:29:16+07:00",
+  "sha256": "709eea74d9243daeef3ef3471c1062943e76615a7f7cbcfb21325d71be32eff0",
+  "size": 41384884
 }
