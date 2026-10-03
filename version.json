@@ -1,10 +1,10 @@
 {
-  "version": "261004-005216",
-  "versionCode": 55385536,
+  "version": "261004-010226",
+  "versionCode": 55386146,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Perbaikan kiriman kedua yang tidak muncul di Tambahan<br/>• <b>[Baru]</b> Perbaikan aplikasi tertutup sendiri di halaman Masuk pada HP tertentu<br/>• <b>[Baru]</b> Peringatan merah Mode Super Admin di Beranda<br/>• <b>[Baru]</b> Tombol −/+ di Tambahan Gudang dilepas agar tidak salah pencet<br/>• <b>[Baru]</b> Data penjualan otomatis terisi saat buka Stock Lapak<br/>• Perbaikan kiriman kedua yang tidak muncul di Tambahan<br/>• Perbaikan aplikasi tertutup sendiri di halaman Masuk pada HP tertentu<br/>• Peringatan merah Mode Super Admin di Beranda<br/>• Tombol −/+ di Tambahan Gudang dilepas agar tidak salah pencet<br/>• Data penjualan otomatis terisi saat buka Stock Lapak",
-  "commit": "731b725",
-  "publishedAt": "2026-10-04T00:53:11+07:00",
-  "sha256": "b4aaff0d381ebf6229a855aa9befbfcf080013414d319a515519e810ae6911c6",
-  "size": 41380788
+  "changelog": "• <b>[Baru]</b> Perbaikan aplikasi tidak bisa dibuka<br/>• Perbaikan kiriman kedua yang tidak muncul di Tambahan<br/>• Perbaikan aplikasi tertutup sendiri di halaman Masuk pada HP tertentu<br/>• Peringatan merah Mode Super Admin di Beranda<br/>• Tombol −/+ di Tambahan Gudang dilepas agar tidak salah pencet<br/>• Data penjualan otomatis terisi saat buka Stock Lapak<br/>• Perbaikan kiriman kedua yang tidak muncul di Tambahan<br/>• Perbaikan aplikasi tertutup sendiri di halaman Masuk pada HP tertentu<br/>• Peringatan merah Mode Super Admin di Beranda<br/>• Tombol −/+ di Tambahan Gudang dilepas agar tidak salah pencet",
+  "commit": "0a8c06b",
+  "publishedAt": "2026-10-04T01:03:09+07:00",
+  "sha256": "16888a4114adc4dbfb6a17f144c8832ce67e152a9a6e658cf1e88dc3b5058176",
+  "size": 40947927
 }

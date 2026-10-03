@@ -1,3 +1,7 @@
+## v261004-010226 — 04 Oct 2026 01:02
+
+- Perbaikan aplikasi tidak bisa dibuka
+
 ## v261004-005216 — 04 Oct 2026 00:52
 
 - Perbaikan kiriman kedua yang tidak muncul di Tambahan
@@ -101,6 +105,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
