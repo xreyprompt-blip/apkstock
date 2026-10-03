@@ -1,3 +1,7 @@
+## v261004-010919 — 04 Oct 2026 01:09
+
+- Perbaikan aplikasi tertutup sendiri di HP tertentu
+
 ## v261004-010226 — 04 Oct 2026 01:02
 
 - Perbaikan aplikasi tidak bisa dibuka
@@ -105,6 +109,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
