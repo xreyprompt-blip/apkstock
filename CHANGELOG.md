@@ -1,3 +1,19 @@
+## v261004-005216 — 04 Oct 2026 00:52
+
+- Perbaikan kiriman kedua yang tidak muncul di Tambahan
+- Perbaikan aplikasi tertutup sendiri di halaman Masuk pada HP tertentu
+- Peringatan merah Mode Super Admin di Beranda
+- Tombol −/+ di Tambahan Gudang dilepas agar tidak salah pencet
+- Data penjualan otomatis terisi saat buka Stock Lapak
+
+## v261004-005147 — 04 Oct 2026 00:51
+
+- Perbaikan kiriman kedua yang tidak muncul di Tambahan
+- Perbaikan aplikasi tertutup sendiri di halaman Masuk pada HP tertentu
+- Peringatan merah Mode Super Admin di Beranda
+- Tombol −/+ di Tambahan Gudang dilepas agar tidak salah pencet
+- Data penjualan otomatis terisi saat buka Stock Lapak
+
 ## v261002-190806 — 02 Oct 2026 19:08
 
 - Tombol −/+ di Tambahan Gudang dan Produksi untuk satuan dasar yang punya kemasan besar
@@ -85,6 +101,8 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
+
 
 
 
