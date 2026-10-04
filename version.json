@@ -1,10 +1,10 @@
 {
-  "version": "261005-011031",
-  "versionCode": 55473031,
+  "version": "261005-024859",
+  "versionCode": 55478939,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Pembukaan blokir simpan di produksi, lapak, dan gudang<br/>• <b>[Baru]</b> Pencegahan klik ganda pada tombol simpan<br/>• Perbaikan posisi menu pilihan di halaman tambahan<br/>• Pencegahan data tambahan ganda dan sumber lapak sama<br/>• Pengaturan sisa minus berlaku untuk semua pengguna<br/>• Pengaturan baru sisa minus khusus admin<br/>• Peringatan digabung per barang di Beranda<br/>• Kolom Diterima di Pesanan Kemarin hanya hitung kiriman pertama<br/>• Pembaruan rutin dan perbaikan bug.<br/>• Pilihan Barang bisa diketik-cari di Tambahan dan Laporan",
-  "commit": "c4ce462",
-  "publishedAt": "2026-10-05T01:11:10+07:00",
-  "sha256": "f628f6cfc687bdb437db7d3e764cca7d8127437fc860bcd5c9529a22870c44f7",
-  "size": 40952023
+  "changelog": "• <b>[Baru]</b> Admin bisa lihat nama operator tiap barang di Stock Lapak<br/>• <b>[Baru]</b> Waktu simpan terakhir tampil di bawah halaman Stock Lapak<br/>• <b>[Baru]</b> Nama penyimpan tercatat di barang yang diubah saja<br/>• Pembukaan blokir simpan di produksi, lapak, dan gudang<br/>• Pencegahan klik ganda pada tombol simpan<br/>• Perbaikan posisi menu pilihan di halaman tambahan<br/>• Pencegahan data tambahan ganda dan sumber lapak sama<br/>• Pengaturan sisa minus berlaku untuk semua pengguna<br/>• Pengaturan baru sisa minus khusus admin<br/>• Peringatan digabung per barang di Beranda",
+  "commit": "8a671b6",
+  "publishedAt": "2026-10-05T02:49:37+07:00",
+  "sha256": "40c62b92b0ecffeed61f3643d4f271e8f22d86905351233bd8f7269af68465ad",
+  "size": 41384884
 }

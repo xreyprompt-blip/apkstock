@@ -1,3 +1,9 @@
+## v261005-024859 — 05 Oct 2026 02:48
+
+- Admin bisa lihat nama operator tiap barang di Stock Lapak
+- Waktu simpan terakhir tampil di bawah halaman Stock Lapak
+- Nama penyimpan tercatat di barang yang diubah saja
+
 ## v261005-011031 — 05 Oct 2026 01:10
 
 - Pembukaan blokir simpan di produksi, lapak, dan gudang
@@ -143,6 +149,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
