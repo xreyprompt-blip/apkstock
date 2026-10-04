@@ -1,3 +1,8 @@
+## v261005-011031 — 05 Oct 2026 01:10
+
+- Pembukaan blokir simpan di produksi, lapak, dan gudang
+- Pencegahan klik ganda pada tombol simpan
+
 ## v261005-005653 — 05 Oct 2026 00:56
 
 - Perbaikan posisi menu pilihan di halaman tambahan
@@ -138,6 +143,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
