@@ -1,10 +1,10 @@
 {
-  "version": "261004-030228",
-  "versionCode": 55393348,
+  "version": "261004-232459",
+  "versionCode": 55466699,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Pengaturan baru sisa minus khusus admin<br/>• <b>[Baru]</b> Peringatan digabung per barang di Beranda<br/>• Kolom Diterima di Pesanan Kemarin hanya hitung kiriman pertama<br/>• Pembaruan rutin dan perbaikan bug.<br/>• Pilihan Barang bisa diketik-cari di Tambahan dan Laporan<br/>• Sisa Kemarin selalu ikut data terbaru saat Simpan<br/>• Peringatan merah jika ada hari yang belum disimpan<br/>• Perbaikan kotak cari yang terisi _search<br/>• Perbaikan aplikasi tertutup sendiri di HP tertentu<br/>• Perbaikan aplikasi tidak bisa dibuka",
-  "commit": "349d8d0",
-  "publishedAt": "2026-10-04T03:03:03+07:00",
-  "sha256": "e81615f4a1befb62a7c45ac7500e6b57a1c832bc1f0ce9433bfca99988026ed7",
-  "size": 41384884
+  "changelog": "• <b>[Baru]</b> Pengaturan sisa minus berlaku untuk semua pengguna<br/>• Pengaturan baru sisa minus khusus admin<br/>• Peringatan digabung per barang di Beranda<br/>• Kolom Diterima di Pesanan Kemarin hanya hitung kiriman pertama<br/>• Pembaruan rutin dan perbaikan bug.<br/>• Pilihan Barang bisa diketik-cari di Tambahan dan Laporan<br/>• Sisa Kemarin selalu ikut data terbaru saat Simpan<br/>• Peringatan merah jika ada hari yang belum disimpan<br/>• Perbaikan kotak cari yang terisi _search<br/>• Perbaikan aplikasi tertutup sendiri di HP tertentu",
+  "commit": "a9d5aa9",
+  "publishedAt": "2026-10-04T23:26:51+07:00",
+  "sha256": "893b6c4df8ec2a19d155b0f8c253efb9196deed0c17428dd0f0801758878730d",
+  "size": 40952023
 }
