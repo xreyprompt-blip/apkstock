@@ -1,10 +1,10 @@
 {
-  "version": "261004-232459",
-  "versionCode": 55466699,
+  "version": "261005-005653",
+  "versionCode": 55472213,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Pengaturan sisa minus berlaku untuk semua pengguna<br/>• Pengaturan baru sisa minus khusus admin<br/>• Peringatan digabung per barang di Beranda<br/>• Kolom Diterima di Pesanan Kemarin hanya hitung kiriman pertama<br/>• Pembaruan rutin dan perbaikan bug.<br/>• Pilihan Barang bisa diketik-cari di Tambahan dan Laporan<br/>• Sisa Kemarin selalu ikut data terbaru saat Simpan<br/>• Peringatan merah jika ada hari yang belum disimpan<br/>• Perbaikan kotak cari yang terisi _search<br/>• Perbaikan aplikasi tertutup sendiri di HP tertentu",
-  "commit": "a9d5aa9",
-  "publishedAt": "2026-10-04T23:26:51+07:00",
-  "sha256": "893b6c4df8ec2a19d155b0f8c253efb9196deed0c17428dd0f0801758878730d",
-  "size": 40952023
+  "changelog": "• <b>[Baru]</b> Perbaikan posisi menu pilihan di halaman tambahan<br/>• <b>[Baru]</b> Pencegahan data tambahan ganda dan sumber lapak sama<br/>• Pengaturan sisa minus berlaku untuk semua pengguna<br/>• Pengaturan baru sisa minus khusus admin<br/>• Peringatan digabung per barang di Beranda<br/>• Kolom Diterima di Pesanan Kemarin hanya hitung kiriman pertama<br/>• Pembaruan rutin dan perbaikan bug.<br/>• Pilihan Barang bisa diketik-cari di Tambahan dan Laporan<br/>• Sisa Kemarin selalu ikut data terbaru saat Simpan<br/>• Peringatan merah jika ada hari yang belum disimpan",
+  "commit": "094cf76",
+  "publishedAt": "2026-10-05T00:57:33+07:00",
+  "sha256": "218ef393c25fdfd36a34b253774e7755afbd4b288d442100dc8c4b8ccc81b096",
+  "size": 41384884
 }

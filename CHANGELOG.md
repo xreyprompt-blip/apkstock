@@ -1,3 +1,8 @@
+## v261005-005653 — 05 Oct 2026 00:56
+
+- Perbaikan posisi menu pilihan di halaman tambahan
+- Pencegahan data tambahan ganda dan sumber lapak sama
+
 ## v261004-232459 — 04 Oct 2026 23:24
 
 - Pengaturan sisa minus berlaku untuk semua pengguna
@@ -133,6 +138,8 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
+
 
 
 
