@@ -1,10 +1,10 @@
 {
-  "version": "261005-131844",
-  "versionCode": 55516724,
+  "version": "261005-141237",
+  "versionCode": 55519957,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Admin bisa lihat nama operator tiap barang di Stock Lapak<br/>• <b>[Baru]</b> Kiriman baru langsung tampil benar tanpa wajib simpan ulang<br/>• <b>[Baru]</b> Stock gudang dan produksi otomatis selaras ke belakang<br/>• <b>[Baru]</b> Laporan pemakaian ikut hitung kiriman terbaru<br/>• Admin bisa lihat nama operator tiap barang di Stock Lapak<br/>• Waktu simpan terakhir tampil di bawah halaman Stock Lapak<br/>• Nama penyimpan tercatat di barang yang diubah saja<br/>• Pembukaan blokir simpan di produksi, lapak, dan gudang<br/>• Pencegahan klik ganda pada tombol simpan<br/>• Perbaikan posisi menu pilihan di halaman tambahan",
-  "commit": "4a2cb9e",
-  "publishedAt": "2026-10-05T13:19:37+07:00",
-  "sha256": "fd7fee57204ed0e35a26eb334c8766c97dffcc31af5cf26a83b6f881dcae93da",
-  "size": 40960215
+  "changelog": "• <b>[Baru]</b> Nama operator tercatat di gudang dan produksi seperti di lapak<br/>• <b>[Baru]</b> Waktu simpan tampil di semua halaman stock<br/>• <b>[Baru]</b> Laporan otomatis selaras sebelum dibuka<br/>• Admin bisa lihat nama operator tiap barang di Stock Lapak<br/>• Kiriman baru langsung tampil benar tanpa wajib simpan ulang<br/>• Stock gudang dan produksi otomatis selaras ke belakang<br/>• Laporan pemakaian ikut hitung kiriman terbaru<br/>• Admin bisa lihat nama operator tiap barang di Stock Lapak<br/>• Waktu simpan terakhir tampil di bawah halaman Stock Lapak<br/>• Nama penyimpan tercatat di barang yang diubah saja",
+  "commit": "9c2fbfa",
+  "publishedAt": "2026-10-05T14:13:08+07:00",
+  "sha256": "08757ac3b0227b4ad9faea0bbb9d904d79eb12054141494344b55a31578d64d7",
+  "size": 41397172
 }

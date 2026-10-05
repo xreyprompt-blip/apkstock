@@ -1,3 +1,9 @@
+## v261005-141237 — 05 Oct 2026 14:12
+
+- Nama operator tercatat di gudang dan produksi seperti di lapak
+- Waktu simpan tampil di semua halaman stock
+- Laporan otomatis selaras sebelum dibuka
+
 ## v261005-131844 — 05 Oct 2026 13:18
 
 - Admin bisa lihat nama operator tiap barang di Stock Lapak
@@ -156,6 +162,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
