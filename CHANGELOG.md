@@ -1,3 +1,10 @@
+## v261005-131844 — 05 Oct 2026 13:18
+
+- Admin bisa lihat nama operator tiap barang di Stock Lapak
+- Kiriman baru langsung tampil benar tanpa wajib simpan ulang
+- Stock gudang dan produksi otomatis selaras ke belakang
+- Laporan pemakaian ikut hitung kiriman terbaru
+
 ## v261005-024859 — 05 Oct 2026 02:48
 
 - Admin bisa lihat nama operator tiap barang di Stock Lapak
@@ -149,6 +156,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
