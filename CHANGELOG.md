@@ -1,3 +1,10 @@
+## v261006-052023 — 06 Oct 2026 05:20
+
+- Perbaikan akurasi laporan mutasi dan pemakaian barang
+- Penyempurnaan tampilan unit dan sisa barang
+- Waktu riwayat pemberitahuan diselaraskan ke WIB
+- Peningkatan kestabilan pengiriman produksi multi sesi
+
 ## v261005-141237 — 05 Oct 2026 14:12
 
 - Nama operator tercatat di gudang dan produksi seperti di lapak
@@ -162,6 +169,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
