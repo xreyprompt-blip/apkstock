@@ -1,3 +1,11 @@
+## v261006-065152 — 06 Oct 2026 06:51
+
+- Perbaikan penyimpanan agar data tidak saling timpa saat dibuka bersamaan
+- Perhitungan sisa kemarin lebih akurat untuk tiap barang
+- Pengiriman produksi antar sesi lebih konsisten
+- Daftar lapak belum closing lebih tepat
+- Pengaturan perangkat hanya bisa diubah admin
+
 ## v261006-052023 — 06 Oct 2026 05:20
 
 - Perbaikan akurasi laporan mutasi dan pemakaian barang
@@ -169,6 +177,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
