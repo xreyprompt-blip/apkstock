@@ -1,10 +1,10 @@
 {
-  "version": "261006-065152",
-  "versionCode": 55579912,
+  "version": "261008-003538",
+  "versionCode": 55730138,
   "apkUrl": "https://github.com/xreyprompt-blip/apkstock/releases/latest/download/com.noraji.nznoraji-Signed.apk",
-  "changelog": "• <b>[Baru]</b> Perbaikan penyimpanan agar data tidak saling timpa saat dibuka bersamaan<br/>• <b>[Baru]</b> Perhitungan sisa kemarin lebih akurat untuk tiap barang<br/>• <b>[Baru]</b> Pengiriman produksi antar sesi lebih konsisten<br/>• <b>[Baru]</b> Daftar lapak belum closing lebih tepat<br/>• <b>[Baru]</b> Pengaturan perangkat hanya bisa diubah admin<br/>• Perbaikan akurasi laporan mutasi dan pemakaian barang<br/>• Penyempurnaan tampilan unit dan sisa barang<br/>• Waktu riwayat pemberitahuan diselaraskan ke WIB<br/>• Peningkatan kestabilan pengiriman produksi multi sesi<br/>• Nama operator tercatat di gudang dan produksi seperti di lapak",
-  "commit": "f05054d",
-  "publishedAt": "2026-10-06T06:52:14+07:00",
-  "sha256": "0e7bf558f6a31fb392eb93f41e259c8f82620a7b43534ce12eb12e4e3c8c7a7f",
-  "size": 41384884
+  "changelog": "• <b>[Baru]</b> Perbaikan kendala tidak bisa memilih barang saat membuat laporan tambahan.<br/>• <b>[Baru]</b> Penyesuaian hak akses tombol tambah untuk gudang dan produksi.<br/>• Perbaikan penyimpanan agar data tidak saling timpa saat dibuka bersamaan<br/>• Perhitungan sisa kemarin lebih akurat untuk tiap barang<br/>• Pengiriman produksi antar sesi lebih konsisten<br/>• Daftar lapak belum closing lebih tepat<br/>• Pengaturan perangkat hanya bisa diubah admin<br/>• Perbaikan akurasi laporan mutasi dan pemakaian barang<br/>• Penyempurnaan tampilan unit dan sisa barang<br/>• Waktu riwayat pemberitahuan diselaraskan ke WIB",
+  "commit": "4515b67",
+  "publishedAt": "2026-10-08T00:36:51+07:00",
+  "sha256": "89d0b33ee52cadc661adafe0cdd06d6d84a0c5b80a7f27318dd32123f37077df",
+  "size": 40952023
 }

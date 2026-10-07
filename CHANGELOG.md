@@ -1,3 +1,8 @@
+## v261008-003538 — 08 Oct 2026 00:35
+
+- Perbaikan kendala tidak bisa memilih barang saat membuat laporan tambahan.
+- Penyesuaian hak akses tombol tambah untuk gudang dan produksi.
+
 ## v261006-065152 — 06 Oct 2026 06:51
 
 - Perbaikan penyimpanan agar data tidak saling timpa saat dibuka bersamaan
@@ -177,6 +182,7 @@
 - Pilihan divisi dan barang lebih mudah dipilih serta aman saat hapus data
 - Dukungan satuan keterangan bebas seperti Karung pada input sisa stok
 - Input target produksi dapat dilakukan hingga H+1
+
 
 
 
